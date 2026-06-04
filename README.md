@@ -43,7 +43,7 @@ campos-vectoriales-ciaf/
 
 ```bash
 # Clonar el repositorio
-git clone https://github.com/[usuario]/campos-vectoriales-ciaf.git
+git clone https://github.com/Xenolfair/campos-vectoriales-ciaf.git
 cd campos-vectoriales-ciaf
 
 # Instalar dependencias
